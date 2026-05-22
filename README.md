@@ -36,45 +36,39 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-Aquí detallo el ecosistema tecnológico que utilizo para dar vida a mis proyectos, desde la lógica del servidor hasta la experiencia del usuario final:
+Aquí detallo mi stack tecnológico completo basado en mis aptitudes y los proyectos que desarrollo de forma activa:
 
 ### 🌐 Frontend
-Enfocado en la construcción de interfaces de usuario modernas, dinámicas y adaptables a cualquier dispositivo. Utilizo estándares modernos para asegurar que el diseño visual se traduzca en una experiencia interactiva fluida y de alto rendimiento.
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - Estructuración semántica y accesible de páginas web.
-* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - Estilizado avanzado, layouts modernos (Flexbox/Grid) y animaciones.
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - Programación del lado del cliente para interactividad y dinamismo.
-* ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - Tipado estático para un desarrollo frontend más seguro y mantenible.
-* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - Creación de aplicaciones de una sola página (SPA) basadas en componentes.
+Construcción de interfaces modernas, dinámicas, optimizadas y con un alto enfoque en diseño responsivo y la experiencia del usuario (UI/UX).
+* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) - Mi entorno principal para desarrollo multiplataforma nativo (Móvil y Web).
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - Estructuración web estándar y maquetación semántica accesible.
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - Lógica interactiva en cliente y tipado estático seguro.
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Astro](https://img.shields.io/badge/Astro-%230C1222.svg?style=for-the-badge&logo=astro&logoColor=FF5D01) - Frameworks de componentes para aplicaciones escalables y sitios estáticos veloces.
+* ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) - Estilizado rápido y diseño fluido mediante clases de utilidad.
+* ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) - Entorno de desarrollo ultrarrápido para empaquetado frontend.
 
-### 🖥️ Backend & Lenguajes
-El núcleo de mi desarrollo. Diseño arquitecturas del lado del servidor sólidas, desarrollo APIs REST eficientes y gestiono la lógica de negocio garantizando seguridad, velocidad y una correcta gestión de recursos de hardware.
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - Lenguaje principal para backend versátil, scripts de automatización e IA.
-* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) - Programación orientada a objetos para aplicaciones robustas y software empresarial.
-* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) - Entorno de ejecución en JavaScript para construir servicios backend rápidos y escalables.
+### 🖥️ Backend
+Creación de arquitecturas sólidas del lado del servidor, automatización de tareas y desarrollo de flujos lógicos eficientes.
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - Lenguaje core para scripting, procesamiento y automatizaciones complejas.
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) - Desarrollo orientado a objetos y soluciones backend robustas para la web.
+* ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) - Creación de servidores asíncronos rápidos basados en JavaScript.
+* ![APIs REST](https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge&logo=api&logoColor=white) - Diseño, consumo e integración de servicios estructurados.
+* ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) - Lógica interna de ecosistemas móviles.
 
-### 🧠 Inteligencia Artificial & Ciencia de Datos
-Exploración y procesamiento avanzado de datos. Implemento microservicios optimizados para conectar modelos inteligentes y utilizo librerías especializadas para actuar sobre grandes volúmenes de información.
-* ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) - Framework de alto rendimiento para el despliegue rápido de APIs de IA.
-* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) - Manipulación, limpieza y análisis estructurado de datos.
-* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) - Computación científica y manejo eficiente de matrices multidimensionales.
+### 🧠 Data Science & IA
+Exploración, análisis y procesamiento avanzado de datos enfocado en la resolución inteligente de problemas.
+* ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) - Herramientas y algoritmos de visión artificial y procesamiento de imágenes.
+* ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) - Computación matemática y manipulación/análisis estructurado de datos.
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) - Generación de gráficos y visualización estática de datos.
+* ![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge) - Creación de interfaces gráficas de escritorio en Python.
+* ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) - Entorno interactivo en la nube para pruebas de scripts de IA.
 
-### 🗃️ Bases de Datos
-Diseño de esquemas, optimización de consultas complejas y administración de sistemas de almacenamiento. Enfocado en mantener la integridad de los datos y un rendimiento eficiente en transacciones de alta carga.
-* ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) - Administración, consultas avanzadas (T-SQL) y optimización relacional corporativa.
-* ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) - Gestión de bases de datos relacionales para proyectos web ágiles y robustos.
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) - Motor relacional avanzado con soporte para consultas complejas y datos JSON.
-
-### 🧩 Herramientas, diseño y control de versiones
-Flujo de trabajo e identidad visual. Utilizo sistemas de control de versiones para el trabajo colaborativo organizado y herramientas profesionales de diseño para materializar ideas antes de llevarlas a las líneas de código.
-* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) - Control de versiones distribuido para el seguimiento exacto del código.
-* ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) - Alojamiento de repositorios, integración continua y colaboración en software.
-* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) - Prototipado interactivo y diseño de experiencias UI/UX detalladas.
-* ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) - Edición gráfica avanzada y creación de recursos visuales profesionales.
-
-### 🟢 Otras tecnologías
-Herramientas complementarias que optimizan mi espacio de trabajo diario o facilitan el despliegue y desarrollo multiplataforma.
-* ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) - Pruebas automatizadas y documentación de APIs RESTful.
-* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) - Editor de código principal altamente personalizado para máxima productividad.
+### 🗃️ Programas, BD y Herramientas
+Sistemas de almacenamiento de información, gestión de dependencias y herramientas esenciales para el flujo de trabajo en equipo.
+* ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) - Diseño relacional, normalización de datos y consultas estructuradas robustas.
+* ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=F57C00) - Integración de bases de datos NoSQL No-Time y servicios en la nube para Apps móviles.
+* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) - Control de versiones distribuido y trabajo en repositorios remotos.
+* ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) - Gestión de paquetes y dependencias del ecosistema JavaScript.
 
 ---
 
