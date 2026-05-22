@@ -1,10 +1,16 @@
 ¡Hola! 👋 Soy Franklyn Jaren Ramirez Tinedo
 
+<p align="left">
+  <a href="https://franklyn-dev-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Mi%20Portafolio-Visitar%20Sitio-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
+
 ---
 
 👨‍💻 Sobre mí
 
-🎓 **Egresado de la carrera de Ingeniería de Software en SENATI.** Me considero un profesional técnico orientado al detalle, con una sólida base en ingeniería y arquitectura de sistemas. Mi enfoque principal está en la creación de soluciones digitales eficientes que resuelvan problemas reales del mundo tecnológico.
+🎓 **Egresado de la carrera de Ingeniería de Software en SENATI.** Me considero un professional técnico orientado al detalle, con una sólida base en ingeniería y arquitectura de sistemas. Mi enfoque principal está en la creación de soluciones digitales eficientes que resuelvan problemas reales del mundo tecnológico.
 
 💡 **Apasionado por la inteligencia artificial, el desarrollo backend y el software multiplataforma.**
 Me fascina explorar las capacidades del procesamiento de datos y los modelos de IA para optimizar procesos. Disfruto diseñar la lógica interna de las aplicaciones (Backend) asegurando que los servidores y sistemas sean robustos, rápidos y capaces de escalar eficientemente de manera multiplataforma.
@@ -74,9 +80,10 @@ Herramientas y entornos complementarios que optimizan mi espacio de trabajo diar
 
 📬 Contacto
 
-Si estás interesado en colaborar en un proyecto, tienes alguna propuesta laboral o simplemente quieres intercambiar ideas sobre tecnología e IA, no dudes en escribirme:
+Si estás interesado en colaborar en un proyecto, tienes alguna propuesta laboral o simplemente quieres conocer más sobre mi trabajo, tienes total libertad de contactarme:
 
-📧 **Correo Electrónico:** [franramitined@gmail.com](mailto:franramitined@gmail.com)
+* 🌐 **Sitio Web / Portafolio:** [franklyn-dev-portfolio.netlify.app](https://franklyn-dev-portfolio.netlify.app)
+* 📧 **Correo Electrónico:** [franramitined@gmail.com](mailto:franramitined@gmail.com)
 
 ---
 
