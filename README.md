@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Franklyn Jaren Ramirez Tinedo
+# ¡Hola! 👋 Soy Franklyn Jaren Ramirez Tinedo
 
 <p align="left">
   <a href="https://franklyn-dev-portfolio.netlify.app" target="_blank">
@@ -8,33 +8,27 @@
 
 ---
 
-👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-🎓 **Egresado de la carrera de Ingeniería de Software en SENATI.** Me considero un professional técnico orientado al detalle, con una sólida base en ingeniería y arquitectura de sistemas. Mi enfoque principal está en la creación de soluciones digitales eficientes que resuelvan problemas reales del mundo tecnológico.
-
-💡 **Apasionado por la inteligencia artificial, el desarrollo backend y el software multiplataforma.**
-Me fascina explorar las capacidades del procesamiento de datos y los modelos de IA para optimizar procesos. Disfruto diseñar la lógica interna de las aplicaciones (Backend) asegurando que los servidores y sistemas sean robustos, rápidos y capaces de escalar eficientemente de manera multiplataforma.
-
-🎨 **Con habilidades en diseño gráfico y prototipado profesional.**
-Creo firmemente que el software no solo debe funcionar a la perfección, sino también ser intuitivo. Cuento con destrezas para estructurar arquitecturas de información visual, crear interfaces de usuario atractivas (UI) y asegurar una experiencia de usuario (UX) fluida desde el primer boceto o prototipo.
-
-⚡ **Siempre aprendiendo, creando e implementando nuevas soluciones.**
-La tecnología avanza a un ritmo constante y mi meta es ir un paso adelante. Dedico tiempo a investigar nuevas herramientas, frameworks y metodologías de desarrollo, transformando las ideas abstractas en código limpio, seguro y de alta calidad.
+* 🎓 **Egresado de la carrera de Ingeniería de Software en SENATI.** Me considero un profesional técnico orientado al detalle, con una sólida base en ingeniería y arquitectura de sistemas. Mi enfoque principal está en la creación de soluciones digitales eficientes que resuelvan problemas reales del mundo tecnológico.
+* 💡 **Apasionado por la inteligencia artificial, el desarrollo backend y el software multiplataforma.** Me fascina explorar las capacidades del procesamiento de datos y los modelos de IA para optimizar procesos. Disfruto diseñar la lógica interna de las aplicaciones (Backend) asegurando que los servidores y sistemas sean robustos, rápidos y capaces de escalar eficientemente.
+* 🎨 **Con habilidades en diseño gráfico y prototipado profesional.** Creo firmemente que el software no solo debe funcionar a la perfección, sino también ser intuitivo. Cuento con destrezas para estructurar arquitecturas de información visual, crear interfaces de usuario atractivas (UI) y asegurar una experiencia de usuario (UX) fluida.
+* ⚡ **Siempre aprendiendo, creando e implementando nuevas soluciones.** La tecnología avanza a un ritmo constante y mi meta es ir un paso adelante. Dedico tiempo a investigar nuevas herramientas, frameworks y metodologías de desarrollo, transformando las ideas abstractas en código limpio, seguro y de alta calidad.
 
 ---
 
-🎓 Educación & Especialización
+## 🎓 Educación
 
-* **Ingeniería de Software (SENATI):** Formación profesional técnica enfocada en el ciclo de vida completo del desarrollo de software, modelado de sistemas y gestión de proyectos tecnológicos.
-* **Cursos de habilidades blandas y desarrollo web - BackEnd:** Capacitación orientada al liderazgo, comunicación asertiva, resolución de conflictos y en la construcción de arquitecturas lógicas del lado del servidor.
-* **Cursos de desarrollo de software y tecnología:** Actualización constante en nuevas metodologías de desarrollo ágil (Scrum) y despliegue de soluciones informáticas modernas.
-* **Cursos de desarrollo web y ciencia de datos:** Análisis, procesamiento y estructuración de grandes volúmenes de datos orientados a la toma de decisiones y modelos predictivos.
-* **Aprendizaje de desarrollo web - Documentación:** Especialización en la lectura, interpretación e implementación guiada por documentación oficial, buenas prácticas de desarrollo y estándares internacionales de código.
-* **Aprendizaje de desarrollo web, diseño UI/UX, desarrollo de aplicaciones de escritorio:** Formación integral para diseñar y construir aplicaciones nativas y multiplataforma, logrando un balance perfecto entre estética visual y rendimiento de hardware.
+* ![SENATI](https://img.shields.io/badge/SENATI-005A9C?style=flat-square&logo=academia&logoColor=white) **Ingeniería de Software:** Formación profesional técnica enfocada en el ciclo de vida completo del desarrollo de software, modelado de sistemas y gestión de proyectos tecnológicos.
+* ![Alura](https://img.shields.io/badge/Alura-167BF7?style=flat-square&logo=google-chrome&logoColor=white) **Cursos de habilidades blandas y desarrollo web - BackEnd:** Capacitación orientada al liderazgo, comunicación asertiva, resolución de conflictos y en la construcción de arquitecturas lógicas del lado del servidor.
+* ![Codecademy](https://img.shields.io/badge/Codecademy-1F2424?style=flat-square&logo=codecademy&logoColor=3A10E5) **Cursos de desarrollo de software y tecnología:** Actualización constante en nuevas metodologías de desarrollo ágil (Scrum) y despliegue de soluciones informáticas modernas.
+* ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) **Cursos de desarrollo web y ciencia de datos:** Análisis, procesamiento y estructuración de grandes volúmenes de datos orientados a la toma de decisiones y modelos predictivos.
+* ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=flat-square&logo=mdnwebdocs&logoColor=white) **Aprendizaje de desarrollo web - Documentación:** Especialización en la lectura, interpretación e implementación guiada por documentación oficial, buenas prácticas de desarrollo y estándares internacionales de código.
+* ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) **Aprendizaje de desarrollo web, diseño UI/UX, desarrollo de aplicaciones escritorio:** Formación integral para diseñar y construir aplicaciones nativas y multiplataforma, logrando un balance perfecto entre estética visual y rendimiento de hardware.
 
 ---
 
-🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 Aquí detallo el ecosistema tecnológico que utilizo para dar vida a mis proyectos, desde la lógica del servidor hasta la experiencia del usuario final:
 
@@ -53,13 +47,13 @@ El núcleo de mi desarrollo. Diseño arquitecturas del lado del servidor sólida
 * ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) - Entorno de ejecución en JavaScript para construir servicios backend rápidos y escalables.
 
 ### 🧠 Inteligencia Artificial & Ciencia de Datos
-Exploración y procesamiento avanzado de datos. Implemento microservicios optimizados para conectar modelos inteligentes y utilizo librerías especializadas para estructurar y analizar grandes volúmenes de información.
+Exploración y procesamiento avanzado de datos. Implemento microservicios optimizados para conectar modelos inteligentes y utilizo librerías especializadas para actuar sobre grandes volúmenes de información.
 * ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) - Framework de alto rendimiento para el despliegue rápido de APIs de IA.
 * ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) - Manipulación, limpieza y análisis estructurado de datos.
 * ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) - Computación científica y manejo eficiente de matrices multidimensionales.
 
 ### 🗃️ Bases de Datos
-Diseño de esquemas, optimización de consultas complejas y administración de sistemas de almacenamiento. Enfocado en mantener la integridad de los datos, la creación de relaciones óptimas y un rendimiento eficiente en transacciones de alta carga.
+Diseño de esquemas, optimización de consultas complejas y administración de sistemas de almacenamiento. Enfocado en mantener la integridad de los datos y un rendimiento eficiente en transacciones de alta carga.
 * ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) - Administración, consultas avanzadas (T-SQL) y optimización relacional corporativa.
 * ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) - Gestión de bases de datos relacionales para proyectos web ágiles y robustos.
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) - Motor relacional avanzado con soporte para consultas complejas y datos JSON.
@@ -72,13 +66,13 @@ Flujo de trabajo e identidad visual. Utilizo sistemas de control de versiones pa
 * ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) - Edición gráfica avanzada y creación de recursos visuales profesionales.
 
 ### 🟢 Otras tecnologías
-Herramientas y entornos complementarios que optimizan mi espacio de trabajo diario o facilitan el despliegue y desarrollo multiplataforma.
+Herramientas complementarias que optimizan mi espacio de trabajo diario o facilitan el despliegue y desarrollo multiplataforma.
 * ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) - Pruebas automatizadas y documentación de APIs RESTful.
 * ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) - Editor de código principal altamente personalizado para máxima productividad.
 
 ---
 
-📬 Contacto
+## 📬 Contacto
 
 Si estás interesado en colaborar en un proyecto, tienes alguna propuesta laboral o simplemente quieres conocer más sobre mi trabajo, tienes total libertad de contactarme:
 
