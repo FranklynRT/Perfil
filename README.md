@@ -1,5 +1,19 @@
 # ¡Hola! 👋 Soy Franklyn Jaren Ramirez Tinedo
 
+# ¡Hola! 👋 Soy Franklyn Jaren Ramirez Tinedo
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00E5FF&width=450&lines=Desarrollador+de+software;Backend+%26+AI+Developer;Ingeniero+de+Software" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://franklyn-dev-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Mi%20Portafolio-Visitar%20Sitio-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
+
 <p align="left">
   <a href="https://franklyn-dev-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-Visitar%20Sitio-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
