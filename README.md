@@ -2,7 +2,8 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&width=650&height=45&lines=Desarrollador+Junior+🚀;Aplicaciones+M%C3%B3viles+%26+Multiplataforma;Desarrollo+Web+con+Flutter+💙;Construyendo+el+futuro+del+software" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=00E5FF&width=650&height=45&lines=Desarrollador+Junior+%F0%9F%9A%80;Aplicaciones+M%C3%B3viles+%26+Multiplataforma;Desarrollo+Web+con+Flutter+%F0%9F%92%99;Construyendo+el+futuro+del+software" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="left">
